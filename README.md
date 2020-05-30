@@ -21,7 +21,7 @@ Se debe grabar en un archivo el ganador del juego con el puntaje alcanzado a fin
 
 # Notas
 Este proyecto puede utilizarse como base o referencia para hacer uno parecido o distinto del mismo tema. Se solicita que el contenído mínimo del proyecto alcance los especificado en las "entradas y salida del sistema" pudiendo el alumno modificar o agregar requerimientos.\
-En cada caso se puntual se discutirá con el alumno como puede este modificar el proyecto según sus deseos o necesidades.\
+En cada caso se puntual se discutirá con el alumno como puede este modificar el proyecto según sus deseos o necesidades.
 
 Estos temas se discuten en el campus del curso en el foro correspondiente al proyecto. Cada alumno deberá iniciar un tema de discucisión sobre el proyecto que desea realizar y como este lo desea implementar.
 
